@@ -1,27 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá eu sou Fernando Lopes,  <strong>Tecnologia da Informação</strong>.<br>
-  Desenvolvi alguns apps, Ponto de Venda, Software para Gestão Clínica, no momento estou desempregado apenas fazendo alguns freelance, finalizei o curso de direito.
-</p>
+# <div align="center">:wave: **Sejam bem-vindos ao meu GitHub** :rocket:</div>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fnando0506@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-lopes-ba1262a5" /></a>
+### :raising_hand_man: Sobre mim :zap::
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<5511992043469>"/></a>
+* :wave: Me chamo **Fernando Lopes**.
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+* :pushpin: De São Paulo, Brasil.
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-## 🚀 Minhas Skills
+* :mortar_board: Sou graduado em Direito e possuo certificações de **Cursos Online** diversos na área de Programação e TI.
+
+* :speech_balloon: Pergunte-me sobre JavaScript, posso te ajudar!
+
+* :computer: Pesquisas: [**Desenvolvi alguns apps, Ponto de Venda, Software para Gestão Clínica, no momento estou desempregado apenas fazendo alguns freelance**]
+* :mag_right: Meu Currículo Lattes: [http://lattes.cnpq.br/1286433509516706](http://lattes.cnpq.br/1286433509516706)
+
+
+---
+
+
+
+### :zap: Habilidades:
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -45,12 +44,25 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+### 📦 Databases:
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finandolopes&theme=dracula&hide_langs_below=1" />
-</a>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=sqlite&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgreSQL&logoColor=FFFFFF) ![AmazonDynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?&logo=amazon-dynamodb&logoColor=FFFFFF)
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=finandolopes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+### 🧰 Ferramentas:
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?&logo=spring&logoColor=FFFFFF) ![Maven](https://img.shields.io/badge/-Maven-C71A36?&logo=apache-maven&logoColor=FFFFFF) ![Wordpress](https://img.shields.io/badge/-wordpress-21759B?&logo=wordpress&logoColor=FFFFFF) ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?&logo=intelliJ-IDEA&logoColor=FFFFFF) ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF) ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF) ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=pycharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF) ![AmazonAWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?&logo=Amazon-aws&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman&logoColor=FFFFFF)
+
+### :star2: Estatísticas Gerais
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finandolopes&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### :chart_with_upwards_trend: Habilidades mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finandolopes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### :white_check_mark: Entre em contato! :speech_balloon:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-lopes-ba1262a5/)](https://www.linkedin.com/in/fernando-lopes-ba1262a5/) [![Gmail](https://img.shields.io/badge/-fnando0506@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF&link=mailto:fnando0506@gmail.com)](mailto:fnando0506@gmail.com) [![Outlook](https://img.shields.io/badge/-fnando0506@hotmail.com-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF&link=mailto:fnando0506@hotmail.com)](mailto:fnando0506@hotmail.com)
