@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  💌 Se desejarem entrar em contato terei u menorme prazer em trocar informações: ⤵️
-</p>
-
-<p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fnando0506@gmail.com" /></a>
 
