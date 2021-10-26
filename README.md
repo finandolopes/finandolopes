@@ -58,5 +58,5 @@
 <h2><p align="left">📊 Quick Stats</p></h3><br>
 
 <p align="center">Visitors count</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/marcelopgama/count.svg" /></p><br><br>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/finandolopes/count.svg" /></p><br><br>
 </p>
