@@ -54,10 +54,9 @@
 
 <div> 
   
-  <a href="https://instagram.com/edson.chmod775" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/finandolopes.chmod775" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:fnando0506@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-lopes-ba1262a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
- target="blank"></a>
 </div>
 &logo=gmail&logoColor=FFFFFF&link=mailto:fnando0506@gmail.com)](mailto:fnando0506@gmail.com) [![Outlook](https://img.shields.io/badge/-fnando0506@hotmail.com-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF&link=mailto:fnando0506@hotmail.com)](mailto:fnando0506@hotmail.com)
 
