@@ -72,3 +72,9 @@
 ### :white_check_mark: Entre em contato! :speech_balloon:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-lopes-ba1262a5/)](https://www.linkedin.com/in/fernando-lopes-ba1262a5/) [![Gmail](https://img.shields.io/badge/-fnando0506@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF&link=mailto:fnando0506@gmail.com)](mailto:fnando0506@gmail.com) [![Outlook](https://img.shields.io/badge/-fnando0506@hotmail.com-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF&link=mailto:fnando0506@hotmail.com)](mailto:fnando0506@hotmail.com)
+
+<h2><p align="left">📊 Quick Stats</p></h3><br>
+
+<p align="center">Visitors count</p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/marcelopgama/count.svg" /></p><br><br>
+</p>
