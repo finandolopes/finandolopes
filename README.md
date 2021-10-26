@@ -12,8 +12,7 @@
 
 * :speech_balloon: Pergunte-me sobre JavaScript, posso te ajudar!
 
-* :computer: Pesquisas: [**Desenvolvi alguns apps, Ponto de Venda, Software para Gestão Clínica, no momento estou desempregado apenas fazendo alguns freelance**]
-* :mag_right: Meu Currículo Lattes: [http://lattes.cnpq.br/1286433509516706](http://lattes.cnpq.br/1286433509516706)
+![Snake animation](https://github.com/EdsonSantana93/EdsonSantana93/blob/output/github-contribution-grid-snake.svg)
 
 ### :zap: Habilidades:
 
