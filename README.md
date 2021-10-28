@@ -8,7 +8,7 @@
 
 * :pushpin: De São Paulo, Brasil.
 
-* :mortar_board: Sou graduado em Direito e possuo certificações de **Cursos Online** diversos na área de Programação e TI.
+* :mortar_board: Sou graduado em Direito e possuo certificações de diversos na área de Programação e TI.
 
 * :speech_balloon: Pergunte-me sobre JavaScript, posso te ajudar!
 
