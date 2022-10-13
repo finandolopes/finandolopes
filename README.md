@@ -14,11 +14,6 @@
 
 ![Snake animation](https://github.com/EdsonSantana93/EdsonSantana93/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=finandolopes" alt="finandolopes" />
- <a href="https://github.com/finandolopes"><img src="https://img.shields.io/github/followers/finandolopes.svg?label=GitHub&style=social" alt="GitHub"></a>
- <a href="https://www.linkedin.com/in/fernando-lopes-ba1262a5/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
 
 <p align="center">
 <a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
@@ -95,7 +90,11 @@
   <a href = "mailto:fnando0506@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-lopes-ba1262a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
-
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=finandolopes" alt="finandolopes" />
+ <a href="https://github.com/finandolopes"><img src="https://img.shields.io/github/followers/finandolopes.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://www.linkedin.com/in/fernando-lopes-ba1262a5/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <p align="center">Visitors count</p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/finandolopes/count.svg" /></p><br><br>
 </p>
