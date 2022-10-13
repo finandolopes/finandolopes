@@ -14,22 +14,71 @@
 
 ![Snake animation](https://github.com/EdsonSantana93/EdsonSantana93/blob/output/github-contribution-grid-snake.svg)
 
-### :zap: Habilidades:
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=finandolopes" alt="finandolopes" />
+ <a href="https://github.com/finandolopes"><img src="https://img.shields.io/github/followers/finandolopes.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://www.linkedin.com/in/fernando-lopes-ba1262a5/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<p align="center">
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
+</p><br>
 
----
+<p align="center">					    
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/finandolopes">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/finandolopes">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+</a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+
+</p><br>
+
+<p align="center">
+<a href="https://github.com/finandolopes">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
+</a></p>
+⭐️ From [finandolopes](https://github.com/finandolopes)
+
+
+### Github Stats
+
+[![Fernando Lopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=finandolopes&show_icons=true&count_private=true)](https://github.com/finandolopes)
+
+### Alguns Trabalhos
+
+[![ReadMe Card](https://reddotparking.000webhostapp.com/=PackageTemplate&show_owner=true)]()
+[![ReadMe Card](https://reddotos.000webhostapp.com/relatorios/vendas=Foods-Ecommerce&show_owner=true)](https://github.com/finandolopes/SistemaOS)
 
 ### 📦 Databases:
 
