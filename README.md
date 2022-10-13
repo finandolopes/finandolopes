@@ -61,7 +61,6 @@
 
 ### :star2: Estatísticas Gerais
 
-[![Fernando Lopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=finandolopes&show_icons=true&count_private=true)](https://github.com/finandolopes)
 <p align="center">
 <a href="https://github.com/finandolopes">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=finandolopes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
