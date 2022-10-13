@@ -59,6 +59,12 @@
 <a href="https://github.com/finandolopes"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p><br>
+### :chart_with_upwards_trend: Alguns Projetos
+
+<p align="center">
+https://reddotos.000webhostapp.com/relatorios/vendas
+https://reddotparking.000webhostapp.com/
+</a></p>
 
 ### :star2: Estatísticas Gerais
 
