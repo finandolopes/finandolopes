@@ -10,7 +10,7 @@
 
 * :mortar_board: Cursando Engenharia da Computação pela UNIVESP - Sou graduado em Direito e possuo certificações de diversos cursos na área de Programação e TI.
 
-* :speech_balloon: Pergunte-me sobre JavaScript, posso te ajudar!
+* :speech_balloon: Pergunte-me sobre JavaScript, ou PHP posso te ajudar!
 
 ![Snake animation](https://github.com/EdsonSantana93/EdsonSantana93/blob/output/github-contribution-grid-snake.svg)
 
