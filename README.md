@@ -89,9 +89,8 @@ Cursando Pós-graduação em Segurança da Informação e Engenharia de Software
 
 :white_check_mark: Entre em contato! :speech_balloon:
 
-<div> 
+<div>   
   
-  <a href="https://instagram.com/finandolopes.chmod775" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:fnando0506@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </div>
 <p align="center">
