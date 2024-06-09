@@ -20,7 +20,7 @@
 
 * :mortar_board: Cursando Engenharia da Computação pela UNIVESP - Sou graduado em Direito e possuo certificações de diversos cursos na área de Programação e TI.
 
-* :speech_balloon: Pergunte-me sobre JavaScript, ou PHP posso te ajudar!
+* :speech_balloon: Fique a vontade para me chamar, ficarei muito feliz em poder ajudar.
 
 ![Snake animation](https://github.com/EdsonSantana93/EdsonSantana93/blob/output/github-contribution-grid-snake.svg)
 </p>
@@ -43,7 +43,7 @@ Cursando Pós-graduação em Segurança da Informação e Engenharia de Software
   - Ler livros;
   - Hardware Hacking  
   - IoT Security  
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+
 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
   
