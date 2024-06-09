@@ -44,7 +44,6 @@ Cursando Pós-graduação em Segurança da Informação e Engenharia de Software
   - Hardware Hacking  
   - IoT Security  
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para <a href = "mailto:fnando0506@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
   
