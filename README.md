@@ -96,7 +96,7 @@ Meu diferencial é unir:
 ## 🌎 Conecte-se comigo
 
 📩 Email: fnando0506@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/fernando-lopes-ba1262a5/
+🔗 LinkedIn: www.linkedin.com/in/fernando-lopes0506
 
 ---
 
