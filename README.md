@@ -70,12 +70,8 @@ Desenvolvimento de um jogo indie 2D (*Platformer/Metroidvania*) protagonizado po
 ## 📊 Estatísticas
 
 <p align="center">
-<a href="https://github.com/finandolopes">
   <img src="https://github-readme-stats.vercel.app/api?username=finandolopes&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/finandolopes">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finandolopes&theme=dark" alt="GitHub Streak" />
-</a>
+  <img src="https://streak-stats.demolab.com/?user=finandolopes&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
